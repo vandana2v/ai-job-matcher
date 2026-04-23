@@ -1,0 +1,35 @@
+# Environment Variables
+.env
+.env.*
+backend/.env
+frontend/.env
+
+# Node
+frontend/node_modules
+frontend/dist
+frontend/.vite
+
+# Python
+backend/venv
+backend/__pycache__/
+backend/*.pyc
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+.cache/
+
+# Optional uploads
+uploads/
